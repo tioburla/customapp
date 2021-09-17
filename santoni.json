@@ -1,22 +1,6 @@
 [
   {
     "id" : 1,
-    "nome" : "Santoni"
-  },
-   {
-    "id" : 2,
-    "nome" : "Lavender"
-  },
-   {
-    "id" : 3,
-    "nome" : "Tulip"
-  },
-   {
-    "id" : 4,
-    "nome" : "Kenzo"
-  }, 
-  {
-    "id" : 5,
-    "nome" : "Mido"
-  }
+    "nome" : "Santoni",
+    "image" : "https://cyanogenmods.b-cdn.net/wp-content/uploads/2020/04/note-9-pro-1.jpg"
 ]
